@@ -559,3 +559,15 @@ ginx-1.22.1\html\static/s/index.html" failed (123: The filename, directory name,
 2022/11/28 14:28:17 [error] 5532#19488: *682 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
 2022/11/28 14:28:23 [notice] 12608#18840: signal process started
 2022/11/28 14:28:33 [notice] 5200#20820: signal process started
+2022/11/28 14:28:35 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:28:35 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:28:35 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:28:35 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:28:35 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:28:36 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:28:36 [error] 18164#18300: *715 CreateFile() "D:\soft\nginx-1.22.1/..\html\static/s/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: dynamic-static-separation.com, request: "GET /s/index.html HTTP/1.1", host: "dynamic-static-separation.com"
+2022/11/28 14:52:51 [emerg] 17524#8000: invalid number of arguments in "rewrite" directive in D:\soft\nginx-1.22.1/conf/conf.d/4url-rewrite.com.conf:8
+2022/11/28 14:54:35 [notice] 20724#20344: signal process started
+2022/11/28 15:00:31 [notice] 7444#20244: signal process started
+2022/11/28 15:01:55 [notice] 18300#20972: signal process started
+2022/11/28 15:05:06 [notice] 20760#16364: signal process started
